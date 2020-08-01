@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hotel Offers</string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="hotel_details">Hotel Details</string>
+    <string name="star_rating">Star Rating</string>
+    <string name="hotel_price">Hotel Price</string>
+    <string name="hotelPrice">Rp 1.350.000</string>
+    <string name="hotel_detail">Hotel detail</string>
+    <string name="hotel_image">Hotel Image</string>
+    <string name="room_gallery">Room Gallery</string>
+    <string name="about_me">About Me</string>
+    <string name="profile_text">Managing ecommerce division for 2(two) hotels in Bali, Nusa Dua. Main responsibility is to achive online revenue target by maximizing channel distribution from OTAs and direct channel (brand website). To reach this objective we need to keep up with the technology and online marketing.</string>
+    <string name="profile_name">IDA BAGUS TRISNA WIDIA</string>
+    <string name="profile_pics">Profile Pics</string>
+</resources>
